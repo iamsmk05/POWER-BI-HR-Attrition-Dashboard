@@ -5,6 +5,7 @@
 This project is a Business Analyst portfolio case study focused on employee attrition analysis. The dashboard helps HR stakeholders understand why employees leave and identify high-risk segments by department, tenure, salary band, overtime, satisfaction, and job role.
 
 The project includes a synthetic HR dataset, SQL analysis, an Excel/Power BI-style dashboard, BA documentation, and a LinkedIn-ready dashboard image.
+<img width="1691" height="789" alt="image" src="https://github.com/user-attachments/assets/790e2b59-a73a-484e-922d-11650026b30a" />
 
 ## Project Objective
 
